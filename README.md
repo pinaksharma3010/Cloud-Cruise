@@ -12,9 +12,7 @@ Cloud Cruise is a sleek, modern weather web application that provides real-time 
 - Lightweight and fast, built with vanilla HTML, CSS, and JavaScript
 - Uses Open-Meteo and Open-Meteo Geocoding APIs (free and no API key required)
 
-## Demo
 
-![Demo GIF or Screenshot](link-to-demo-image-or-gif)
 
 ## Installation
 
